@@ -1,6 +1,6 @@
 # course_work
 
-### мой код в master/Assets/Scripts/
+# мой код в master/Assets/Scripts/
 
 # в целом при полной загрузке проект должен собраться полностью если установлен unity
 
